@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I new at programming and here i will show my progress from beginner to a self-taught developer 👋
 
 <!--
 **augustofaggion/augustofaggion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
