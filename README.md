@@ -4,7 +4,7 @@
 
 <p>First of all thank you to be reading my profile, I really apreciate</p>
 <p>I am Augusto Faggion Lira dos Santos born and raised in Brazil but right now I live in Germany.</p>
-<p>I dicide to be a self-taughter developer because after my first time trying coding I loved and enjoyed all the challanges. In this profile I will show you all my projects from begin until I Achieve my goal as a Self-taught Developer</p>
+<p>I decide to be a self-taughter developer because after my first time trying coding I loved and enjoyed all the challanges. In this profile I will show you all my projects from begin until I Achieve my goal as a Self-taught Developer</p>
 
 <h4>><strong>Languages that I am learning:</strong> </h4>
     <ul>
