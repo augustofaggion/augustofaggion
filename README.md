@@ -2,11 +2,11 @@
 
 <h4><strong>Who am I?</strong> </h4>
 
-<p>First of all thank you to be reading my profile, I really apreciate</p>
+<p>First of all thank you to be reading my profile, I really apreciate.</p>
 <p>I am Augusto Faggion born and raised in Brazil but right now I live in Germany.</p>
-<p>I decide to be a self-taughter developer because after my first time trying coding I loved and enjoyed all the challanges. In this profile I will show you all my projects from begin and also posting exercises so I can help others learn programming</p>
+<p>I decide to be a self-taughter developer because after my first time trying coding I loved and enjoyed all the challanges. In this profile I will show you all my projects from begin and also posting exercises so I can help others learn programming.</p>
 
-<h4><strong>Languages that I am learning:</strong></h4>
+<h4><strong>- 🌱 I’m currently learning:</strong></h4>
     <ul>
         <li>HTML & CSS </li>
         <li>Javascript </li>
