@@ -9,5 +9,3 @@ Transitioning from a 7-year stint at Amazon, where I excelled in IT support and 
 - **Web Technologies:** HTML5, CSS3
 - **Tools:** Git, GitHub, VS Code
 
-## Contact 📞
-[![LinkedIn Logo](https://icons8.de/icon/xuvGCOXi8Wyg/linkedin)](https://www.linkedin.com/in/augusto-faggion-lira-dos-santos-5a6035210/)
