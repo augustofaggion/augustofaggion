@@ -1,11 +1,16 @@
 # Augusto Faggion Lira dos Santos 👨‍💻
 
 ## About me
-Transitioning from a 7-year stint at Amazon, where I excelled in IT support and training, to pursuing a career in tech. Currently honing my skills as a full-stack web developer at Le Wagon bootcamp, specializing in Ruby on Rails.
+Transitioning from a 7-year at Amazon, where I excelled in IT support, Managment and training, to pursuing a career in tech. Currently upgrading my skills as a full-stack web developer at Le Wagon bootcamp, specializing in Ruby on Rails.
 
 ## Skills
-- **Languages:** Ruby, JavaScript
-- **Frameworks:** Ruby on Rails
-- **Web Technologies:** HTML5, CSS3
-- **Tools:** Git, GitHub, VS Code
+- **Languages**
+[![My Skills](https://skillicons.dev/icons?i=ruby,js)](https://skillicons.dev)
+- **Frameworks**
+- [![My Skills](https://skillicons.dev/icons?i=raisl)](https://skillicons.dev)
+- **Web Technologies:**
+- [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+- **Tools:**
+- [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
 
