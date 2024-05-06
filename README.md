@@ -5,9 +5,9 @@ Transitioning from a 7-year at Amazon, where I excelled in IT support, Managment
 
 ## Skills
 - **Languages**
-[![My Skills](https://skillicons.dev/icons?i=ruby,js)](https://skillicons.dev)
+-[![My Skills](https://skillicons.dev/icons?i=ruby,js)](https://skillicons.dev)
 - **Frameworks**
-- [![My Skills](https://skillicons.dev/icons?i=raisl)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=rails)](https://skillicons.dev)
 - **Web Technologies:**
 - [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 - **Tools:**
