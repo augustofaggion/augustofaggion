@@ -15,7 +15,8 @@ Motivated by this interest, I began learning to code on my own and completed the
 
 
 ### Social media
-![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=amg)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=amg)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/augustofaggion/))
+
 
 
 
