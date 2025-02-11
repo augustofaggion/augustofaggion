@@ -1,9 +1,9 @@
 ## Augusto Faggion Lira dos Santos 👨‍💻
 Full Stack Developer with a Talent for Creative Problem Solving.
 ### About me
-With a solid background in logistics, I have developed strong teamwork skills and expertise in optimizing processes. During my time in this field, I became interested in web and software development. 
+With a strong background in logistics, I developed problem-solving skills and a structured approach to optimizing processes. My passion for technology led me to transition into software development, starting with self-learning and later completing the Le Wagon bootcamp as a Full Stack Developer.
 
-Motivated by this interest, I began learning to code on my own and completed the Le Wagon bootcamp as a Full Stack Web Developer. Having finished the course, I am now focused on transitioning to a career in web development and finding a role where I can apply my new skills.
+Now working as a Backend Developer, I enjoy working with modern frameworks and tools to create robust applications that enhance performance and user experience.
 
 ### Skills & Tech stack
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoSize=amg) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC342D?style=for-the-badge&logo=rubyonrails&logoSize=amg) ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=amg) ![Typescript](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
