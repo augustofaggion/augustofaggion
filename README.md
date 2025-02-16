@@ -14,6 +14,8 @@ Now working as a Backend Developer, I enjoy working with modern frameworks and t
 ### What I am learning right now?
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Certifications
+[![IBM Badge](https://github.com/augustofaggion/augustofaggion/blob/main/ibm-certification.png?raw=true)](https://www.credly.com/badges/7aad5b6e-7c58-408b-9e4b-664db3560a33/public_url)
 
 
 
